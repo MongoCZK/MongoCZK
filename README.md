@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
+![codewars](https://www.codewars.com/users/MongoCZK/badges/micro)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MongoCZK&show_icons=true&theme=vue)
 
