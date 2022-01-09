@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![wakatime](https://wakatime.com/badge/user/6c04c62e-4ae9-454d-8daa-0506e9356cf2.svg)](https://wakatime.com/@6c04c62e-4ae9-454d-8daa-0506e9356cf2) 
--->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FMongoCZK%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-![codewars](https://www.codewars.com/users/MongoCZK/badges/micro)
+![codewars](https://www.codewars.com/users/MongoCZK/badges/micro) [![wakatime](https://wakatime.com/badge/user/e70e05e4-2d8a-401e-8618-ac352fa29096.svg)](https://wakatime.com/@6c04c62e-4ae9-454d-8daa-0506e9356cf2) 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
